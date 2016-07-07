@@ -9,9 +9,7 @@ margin-left: 200px;
 
 
 }
-title{
-text-align:center;
-}
-h1{
-	text-align: center;
+#text{
+	font-size-adjust: 10px;
+	font-size:1px;
 }
